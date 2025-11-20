@@ -3,7 +3,6 @@
 This is a full-stack demo document Q&A app (a “retrieval-augmented generation” or RAG app) built using React for the frontend and a Cloudflare Worker for the backend.
 Users can upload or paste a document, then ask questions about its contents—the backend holds the document during the session and currently returns a mock answer.
 
-
 ## Features
 - Paste text into a document box
 - Type a question about the uploaded content and get a response.
