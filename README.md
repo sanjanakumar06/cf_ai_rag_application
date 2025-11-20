@@ -28,7 +28,6 @@ Users can upload or paste a document, then ask questions about its contents—th
 6. Set React to use your worker: 
 - In src/App.jsx, set the WORKER_URL to your deployed Worker's URL: const WORKER_URL = "https://your-worker-name.your-account.workers.dev";
 
-
 ## Usage
 - Paste or type a document in the text area and click Upload
 - When "Document uploaded!" appears, type a question and Ask
